@@ -1,0 +1,8 @@
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+opacity = 0.1
+
+[window.padding]
+x = 25
+y = 20
